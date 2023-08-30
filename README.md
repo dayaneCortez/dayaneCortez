@@ -31,5 +31,3 @@ Aqui estão algumas das tecnologias e ferramentas que estou aprendendo e utiliza
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneCortez&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" height="180em"/>
     <img src="https://github-readme-stats.vercel.app/api?username=dayaneCortez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
 </div>
-
-![Snake animation](https://github.com/dayaneCortez/dayaneCortez/blob/output/github-contribution-grid-snake.svg)
